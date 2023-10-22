@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I love to hike in nature and trekking in general !**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
