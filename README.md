@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate 4th year IT student at Epitech</h3>
+<h3 align="center">A passionate 5th year IT student at Epitech</h3>
 
-- 🔭 I’m currently working on **world wide trend**
+- 🔭 I’m currently working on my **CPTS** certification.
 
-- 🌱 I’m currently learning **Cybersecurity red team and some blue team**
+- 🌱 I’m currently learning **Cybersecurity red team and some blue team**.
 
-- 💬 Ask me about **Cybersecurity, CTF and challenges at HTB**
+- 💬 Ask me about **Cybersecurity, CTF and challenges at HTB**.
 
-- 📫 How to reach me **max.cekanowski@epitech.eu**
+- 📫 How to reach me **max.cekanowski@epitech.eu**.
 
-- ⚡ Fun fact **I love to hike in nature and trekking in general !**
+- ⚡ Fun fact **I love to hike in nature and trekking in general !**.
 
 <p align="left">
 </p>
